@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#Follow bellow my github pages from on my own projects!
+<h2>Follow bellow my github pages from on my own projects! 🙋‍♂️</h2>
 
-- Projeto Social:
+🤳 Projeto Social: 
 <br>https://dev-emanuelpereira.github.io/projeto-social/
 
-- Projeto Android:
+📰 Projeto Android:
 <br>https://dev-emanuelpereira.github.io/projeto-android/
 
-- Projeto Cordel:
+📓 Projeto Cordel:
 <br>https://dev-emanuelpereira.github.io/projeto-cordel/
