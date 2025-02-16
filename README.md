@@ -1,75 +1,53 @@
-<div style="
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-">
-
-  <div>
-    <h3 style="text-align: center;">PRINCIPAIS LINGUAGENS</h3>
-    <div style="
-      width: 300px; 
-      height: 300px; 
-      border: 1px solid #ccc; 
-      overflow: hidden; 
-    ">
-      <img 
+<div style="display: inline-block;">
+    <a href="https://github.com/dev-emanuelpereira">
+        <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-emanuelpereira&hide=javascript,c++,cython,powershell,fortran"
         alt="Linguagens"
-        style="width: 100%; height: 100%; object-fit: cover;"
-      />
-    </div>
-  </div>
-  <div>
-    <h3 style="text-align: center;">PROJETOS</h3>
-    <div style="display: flex; flex-direction: column; gap: 10px;">
-      <div style="
-        width: 300px; 
-        height: 75px; 
-        border: 1px solid #ccc; 
-        overflow: hidden; 
-      ">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=case-gol"
-          alt="case-gol"
-          style="width: 100%; height: 100%; object-fit: cover;"
+        height="232em"
         />
-      </div>
-      <div style="
-        width: 300px; 
-        height: 75px; 
-        border: 1px solid #ccc; 
-        overflow: hidden; 
-      ">
+    </a>
+    <a href="https://github.com/dev-emanuelpereira">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=api-rh"
-          alt="api-rh"
-          style="width: 100%; height: 100%; object-fit: cover;"
+        src="https://github-readme-stats.vercel.app/api?username=dev-emanuelpereira&show_icons=true&theme=default"
+        alt="Linguagens"
+        height="232em"
         />
-      </div>
-      <div style="
-        width: 300px; 
-        height: 75px; 
-        border: 1px solid #ccc; 
-        overflow: hidden; 
-      ">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-pacman"
-          alt="projeto-pacman"
-          style="width: 100%; height: 100%; object-fit: cover;"
-        />
-      </div>
-      <div style="
-        width: 300px; 
-        height: 75px; 
-        border: 1px solid #ccc; 
-        overflow: hidden; 
-      ">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-banco"
-          alt="projeto-banco"
-          style="width: 100%; height: 100%; object-fit: cover;"
-        />
-      </div>
-    </div>
-  </div>
+    </a>
 </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="display: inline-block; margin:10;">
+        <div style="display: inline-block;">
+            <a href="https://github.com/dev-emanuelpereira">
+                <img style="margin: auto"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=case-gol"
+                alt="case-gol"
+                height="100%"
+                />
+            </a>
+            <a href="https://github.com/dev-emanuelpereira">
+                <img style="margin: auto"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=api-rh"
+                alt="api-rh"
+                height="100%"
+                />
+            </a>
+        </div>
+        <div style="display: inline-block">
+            <a href="https://github.com/dev-emanuelpereira">
+                <img style="margin: auto"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-pacman"
+                alt="projeto-pacman"
+                height="100%"
+                />
+            </a>
+            <a href="https://github.com/dev-emanuelpereira">
+                <img style="margin: auto"
+                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-banco"
+                alt="projeto-banco"
+                height="100%"
+                />
+            </a>
+        </div>
+    </div>
+</div>
+
