@@ -27,14 +27,14 @@ Um estudante de Analise e Desenvolvimento de Sistemas, apaixonado por programaç
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
     <div style="display: inline-block; margin:10;">
         <div style="display: inline-block;">
-            <a href="https://github.com/dev-emanuelpereira">
+            <a href="https://github.com/dev-emanuelpereira/case-gol">
                 <img style="margin: auto"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=case-gol"
                 alt="case-gol"
                 height="100%"
                 />
             </a>
-            <a href="https://github.com/dev-emanuelpereira">
+            <a href="https://github.com/dev-emanuelpereira/api-rh">
                 <img style="margin: auto"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=api-rh"
                 alt="api-rh"
@@ -43,14 +43,14 @@ Um estudante de Analise e Desenvolvimento de Sistemas, apaixonado por programaç
             </a>
         </div>
         <div style="display: inline-block">
-            <a href="https://github.com/dev-emanuelpereira">
+            <a href="https://github.com/dev-emanuelpereira/projeto-pacman">
                 <img style="margin: auto"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-pacman"
                 alt="projeto-pacman"
                 height="100%"
                 />
             </a>
-            <a href="https://github.com/dev-emanuelpereira">
+            <a href="https://github.com/dev-emanuelpereira/projeto-banco">
                 <img style="margin: auto"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-banco"
                 alt="projeto-banco"
