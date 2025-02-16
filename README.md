@@ -1,6 +1,6 @@
 # Métricas
 
-<div style="display: inline-block;">
+<div style="display: inline-block; text-align: center">
     <a href="https://github.com/dev-emanuelpereira">
         <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-emanuelpereira&hide=javascript,c++,cython,powershell,fortran"
