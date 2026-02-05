@@ -4,7 +4,7 @@
 
 ###
 
-Desenvolvedor Backend formado em Análise e Desenvolvimento de Sistemas, com experiência em **Java (Spring Boot)** e **Python**.<br><br>Atualmente atuo no **Apex Group**, desenvolvendo **microsserviços escaláveis em ambientes AWS**, com foco em arquitetura distribuída, integração de sistemas e automação de processos.<br><br>Experiência com **AWS ECS, Lambda, SNS, SQS, EventBridge, Step Functions**, bancos **SQL e NoSQL**, **Docker** e boas práticas de desenvolvimento backend.<br><br>🧾 Certificado **AWS Cloud Practitioner**.
+Desenvolvedor Backend formado em Análise e Desenvolvimento de Sistemas, com experiência em **Java (Spring Boot)** e **Python**.<br><br>Atualmente atuo na **Apex Group**, desenvolvendo **microsserviços escaláveis em ambientes AWS**, com foco em arquitetura distribuída, integração de sistemas e automação de processos.<br><br>Experiência com **AWS ECS, Lambda, SNS, SQS, EventBridge, Step Functions**, bancos **SQL e NoSQL**, **Docker** e boas práticas de desenvolvimento backend.<br><br>🧾 Certificado **AWS Cloud Practitioner**.
 >
 
 ---
@@ -25,7 +25,7 @@ Desenvolvedor Backend formado em Análise e Desenvolvimento de Sistemas, com exp
           <a href="mailto:esp.emanuelsilva@gmail.com">
           <img  height="40" align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
           </a>
-          <a href="https://www.linkedin.com/in/emanuel-silva-876424216/">
+          <a href="https://www.linkedin.com/in/emanuel-silva-pereira/">
           <img  height="40" align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
           </a>
       </div>
