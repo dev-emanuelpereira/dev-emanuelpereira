@@ -1,65 +1,11 @@
-# Hello, dev! 👋
-
-Um estudante de Analise e Desenvolvimento de Sistemas, apaixonado por programação e entusiasta por tudo relacionado a computação e tecnologia 😆
-
-<h2 align="center">🧑‍💻 Seja bem-vindo ao meu perfil do Github!</h2>
-<br>
-<div align="center" style="display: inline;">
-    <a href="https://github.com/dev-emanuelpereira">
-        <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-emanuelpereira&hide=javascript,c++,cython,powershell,fortran"
-        alt="Linguagens"
-        height="232em"
-        />
-    </a>
-    <a href="https://github.com/dev-emanuelpereira">
-        <img
-        src="https://github-readme-stats.vercel.app/api?username=dev-emanuelpereira&show_icons=true&theme=default"
-        alt="Linguagens"
-        height="232em"
-        />
-    </a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=82&stroke=-&animation=scaleIn&descSize=21&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<br>
-<br>
+###
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="display: inline-block; margin:10;">
-        <div style="display: inline-block;">
-            <a href="https://github.com/dev-emanuelpereira/case-gol">
-                <img style="margin: auto"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=case-gol"
-                alt="case-gol"
-                height="100%"
-                />
-            </a>
-            <a href="https://github.com/dev-emanuelpereira/api-rh">
-                <img style="margin: auto"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=api-rh"
-                alt="api-rh"
-                height="100%"
-                />
-            </a>
-        </div>
-        <div style="display: inline-block">
-            <a href="https://github.com/dev-emanuelpereira/projeto-pacman">
-                <img style="margin: auto"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-pacman"
-                alt="projeto-pacman"
-                height="100%"
-                />
-            </a>
-            <a href="https://github.com/dev-emanuelpereira/projeto-banco">
-                <img style="margin: auto"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=dev-emanuelpereira&repo=projeto-banco"
-                alt="projeto-banco"
-                height="100%"
-                />
-            </a>
-        </div>
-    </div>
-</div>
+Desenvolvedor Backend formado em Análise e Desenvolvimento de Sistemas, com experiência em **Java (Spring Boot)** e **Python**.<br><br>Atualmente atuo no **Apex Group**, desenvolvendo **microsserviços escaláveis em ambientes AWS**, com foco em arquitetura distribuída, integração de sistemas e automação de processos.<br><br>Experiência com **AWS ECS, Lambda, SNS, SQS, EventBridge, Step Functions**, bancos **SQL e NoSQL**, **Docker** e boas práticas de desenvolvimento backend.<br><br>🧾 Certificado **AWS Cloud Practitioner**.
+>
 
 ---
 
